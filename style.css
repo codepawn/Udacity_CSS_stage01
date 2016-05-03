@@ -29,3 +29,7 @@
 .flexzone {
     display: flex;
 }
+.fontstyle {
+    font-family: cursive, sans-serif;
+    font-size: 2em;
+}
